@@ -4,4 +4,4 @@
 
 【1】. [SOM(Self-Organizing Map, 自组织映射)神经网络](https://github.com/Anfany/ZhRane-Algorithm-with-python3/blob/master/SOM_ZhRane.ipynb)
 
-【2】. [GM(1,1)(Gray Model, 灰色模型)](https://github.com/Anfany/ZhRane-Algorithm-with-python3/blob/master/gray_prediction.ipynb)
+【2】. [GM(1,1)(Gray Model, 灰色模型)](https://github.com/Anfany/ZhRane-Algorithm-with-python3/blob/master/GM.ipynb)
